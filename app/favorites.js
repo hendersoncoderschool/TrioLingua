@@ -1,6 +1,6 @@
 import './globals.css'
 
-export default function favorites() {
+export default function favorites       () {
   return (
     <main>
       <h1>Favorites</h1>
