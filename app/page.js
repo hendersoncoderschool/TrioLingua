@@ -16,7 +16,7 @@ export default function page() {
       <nav>
         <a href = "#"><i class="fa fa-check-square"></i></a>
         <a href = "#"><i class='fas fa-bell'></i></a>
-        <a href = "#"><i class='far fa-calendar-alt'></i></a>
+        <a href = "#"><img src="calendar-days.svg"></img></a>
         <a href = "#"><i class='fas fa-wifi'></i></a>
         <a href = "#"><i class='fas fa-star'></i></a>
         <a href = "/favorites"><i class='fas fa-heart'></i></a>
