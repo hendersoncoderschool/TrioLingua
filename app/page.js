@@ -7,7 +7,7 @@ export default function page() {
       <div id = "spacing"></div>
       <div class = "parent">
         <div class = "child">
-      <img src = ".../bigger_dolphin.png"></img>
+      <img src = "https://i.imgur.com/GcXzxwv.png"></img>
         </div>
       <div class = "child card">
         <h3>Welcome to TrioLingua, the perfect app to learn a language with a friend (or two)! Here at TrioLingua we believe that learning is best with a bit of fun, so we provide multiple competitive and cooperative games to play with your friends! And of course, we offer individual activities, best used to practice for some friendly competition.</h3>
